@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://finstory.github.io/csb-q2oog7/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://finstory.github.io/csb-q2oog7/static/js/main.21f659f9.chunk.js",
+    "main.js.map": "https://finstory.github.io/csb-q2oog7/static/js/main.21f659f9.chunk.js.map",
+    "runtime-main.js": "https://finstory.github.io/csb-q2oog7/static/js/runtime-main.713c3d3a.js",
+    "runtime-main.js.map": "https://finstory.github.io/csb-q2oog7/static/js/runtime-main.713c3d3a.js.map",
+    "static/js/2.a8cdaeb1.chunk.js": "https://finstory.github.io/csb-q2oog7/static/js/2.a8cdaeb1.chunk.js",
+    "static/js/2.a8cdaeb1.chunk.js.map": "https://finstory.github.io/csb-q2oog7/static/js/2.a8cdaeb1.chunk.js.map",
+    "index.html": "https://finstory.github.io/csb-q2oog7/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://finstory.github.io/csb-q2oog7/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.a8cdaeb1.chunk.js.LICENSE.txt": "https://finstory.github.io/csb-q2oog7/static/js/2.a8cdaeb1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.713c3d3a.js",
+    "static/js/2.a8cdaeb1.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.21f659f9.chunk.js"
+  ]
+}
